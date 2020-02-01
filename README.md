@@ -1,12 +1,12 @@
-# selenium-webdriver: (CommonJS, Jasmine and Expect)
+# selenium-webdriver: (CommonJS, Jasmine and Assert)
 
-[![GitHub Actions status | e2e-boilerplates/selenium-webdriver-commonjs-jasmine](https://github.com/e2e-boilerplates/selenium-webdriver-commonjs-jasmine/workflows/selenium-webdriver-commonjs-jasmine/badge.svg)](https://github.com/e2e-boilerplates/selenium-webdriver-commonjs-jasmine/actions?workflow=selenium-webdriver-commonjs-jasmine)
+[![GitHub Actions status | e2e-boilerplates/selenium-webdriver-commonjs-jasmine-assert](https://github.com/e2e-boilerplates/selenium-webdriver-commonjs-jasmine-assert/workflows/selenium-webdriver-commonjs-jasmine/badge.svg)](https://github.com/e2e-boilerplates/selenium-webdriver-commonjs-jasmine-assert/actions?workflow=selenium-webdriver-commonjs-jasmine-assert)
 
-selenium-webdriver end-to-end test automation boilerplate, using CommonJS, Jasmine and Expect.
+selenium-webdriver end-to-end test automation boilerplate, using CommonJS, Jasmine and Assert.
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/selenium-webdriver-commonjs-jasmine-expect.git
-    cd selenium-webdriver-commonjs-jasmine-expect
+    git clone git@github.com:e2e-boilerplates/selenium-webdriver-commonjs-jasmine-assert.git
+    cd selenium-webdriver-commonjs-jasmine-assert
     npm install
     npm run test

@@ -1,7 +1,7 @@
 {
-  "name": "selenium-webdriver-commonjs-jasmine-expect",
+  "name": "selenium-webdriver-commonjs-jasmine-assert",
   "version": "1.0.0",
-  "description": "selenium-webdriver end-to-end test automation boilerplate, using CommonJS, Jasmine and Expect.",
+  "description": "selenium-webdriver end-to-end test automation boilerplate, using CommonJS, Jasmine and Assert.",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx jasmine"
@@ -11,7 +11,8 @@
     "comonjs",
     "jasmine",
     "boilerplate",
-    "example"
+    "example",
+    "assert"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
