@@ -6,7 +6,7 @@ Selenium-WebDriver end-to-end test automation boilerplate, using Commonjs, Jasmi
 
 ## Getting Started
 
-    	git clone git@github.com:e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert.git
-    	cd selenium-webdriver-commonjs-jasmine-assert
-    	npm install
-    	npm run test
+    	1. git clone git@github.com:e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert.git
+    	2. cd selenium-webdriver-commonjs-jasmine-assert
+    	3. npm install
+    	4. npm run test
