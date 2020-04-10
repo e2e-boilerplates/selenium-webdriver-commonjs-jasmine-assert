@@ -1,2 +1,11 @@
-| referrer | count | uniques |
-| :------- | :---- | :------ |
+| referrer                                                                          | count | uniques |
+| :-------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert/actions               | 3     | 1       |
+| /e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert                       | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert/actions/runs/71860983 | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert/actions/runs/74020827 | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert/pull/20               | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert/runs/564466612        | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert/runs/564848233        | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert/runs/572551601        | 1     | 1       |
+| /e2e-boilerplate/selenium-webdriver-commonjs-jasmine-assert/runs/572601299        | 1     | 1       |
